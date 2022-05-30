@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>ReScript React Native Blog</title>
+        <link>https://rescript-react-native.github.io/blog</link>
+        <description>ReScript React Native Blog</description>
+        <lastBuildDate>Tue, 04 May 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hello ReScript React Native]]></title>
+            <link>https://rescript-react-native.github.io/blog/2021-05-04-hello-rescript-react-native</link>
+            <guid>2021-05-04-hello-rescript-react-native</guid>
+            <pubDate>Tue, 04 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Following BuckleScript & Reason Rebranding to offer a unified experience, what was know as Reason React Native is now ReScript React Native.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hello Reason React Native]]></title>
+            <link>https://rescript-react-native.github.io/blog/2019-06-17-hello-reason-react-native</link>
+            <guid>2019-06-17-hello-reason-react-native</guid>
+            <pubDate>Mon, 17 Jun 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today is a big day for the ReasonML community as we are releasing the fruits of]]></description>
+        </item>
+    </channel>
+</rss>

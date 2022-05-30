@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{100:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello ReScript React Native","permalink":"/blog/2021-05-04-hello-rescript-react-native"},{"title":"Hello Reason React Native","permalink":"/blog/2019-06-17-hello-reason-react-native"}]}')}}]);
